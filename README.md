@@ -1,3 +1,3 @@
 # Praktek_RPL
 
-Repostory ini dugunakan untuk Praktek RPL
+Repository ini dugunakan untuk Praktek RPL
